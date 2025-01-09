@@ -1,0 +1,1 @@
+In the task 2 we compiled the C program using gcc and spike, obtained same results on both the compilers. The RISC-V object dump was generated for both -Ofast and -O1 optimization levels and register addresses were debugged and verified for both the optimization levels.
