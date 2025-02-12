@@ -6,7 +6,6 @@ Motion Detection: Uses a IR sensor to detect movement.\
 Alert System: Triggers a buzzer.\
 Low Power: Designed for energy-efficient operation.
 ## Components Required:
-RISC-V Processor: A 32-bit RISC-V microcontroller (e.g., SiFive HiFive1).\
 IR Sensor: Detects infrared radiation changes caused by movement.\
 Buzzer/LED: Provides audible or visual alerts.
 ## Steps to Implement
