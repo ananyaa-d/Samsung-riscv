@@ -11,7 +11,7 @@ IR Sensor: Detects infrared radiation changes caused by movement.\
 Buzzer/LED: Provides audible or visual alerts.
 ## Steps to Implement
 ### 1.Set Up the IR Sensor
-Connect the PIR sensor's VCC and GND pins to the 3.3V and GND of the RISC-V processor.\
-Connect the PIR sensor's OUT pin to a GPIO pin (e.g., D0).
+Connect the IR sensor's VCC and GND pins to the 3.3V and GND of the RISC-V processor.\
+Connect the IR sensor's OUT pin to a GPIO pin (e.g., D0).
 ### 2.Add Alerts
 Connect a buzzer to another GPIO pin (e.g., D1) with a transistor to amplify the signal.
